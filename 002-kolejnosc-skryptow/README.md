@@ -1,4 +1,4 @@
-# Zadanie 001 - Kolejność skryptów
+# Zadanie 002 - Kolejność skryptów
 
 Stwórz następujące pliki:
 

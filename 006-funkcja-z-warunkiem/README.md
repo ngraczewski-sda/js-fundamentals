@@ -1,4 +1,4 @@
-# 005 - Funkcja z argumentem
+# 006 - Funkcja z warunkiem
 
 Korzystając z rozwiązania zadania `005` przepisz funkcję w taki sposób aby poprawnie formułowała
 powitanie w zależności od wieku.
