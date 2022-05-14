@@ -1,0 +1,9 @@
+greetEng("Bogdan", 30);
+greetEng("Nikodem", 29);
+greetEng("Junior", 1);
+greetPl("Bogdan", 30);
+greetPl("Nikodem", 32);
+greetPl("Junior", 1);
+greetPl("Adam", 12);
+greetPl("Janusz", 13);
+greetPl("Stefan", 35);
