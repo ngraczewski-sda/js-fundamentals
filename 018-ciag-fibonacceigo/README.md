@@ -1,4 +1,4 @@
-# Ciąg Fibonacciego
+# 018 - Ciąg Fibonacciego
 
 Napisz funkcję, która wypisze n-ty wyraz ciągu Fibonacciego. Na potrzeby zadania zakładamy, że:
 

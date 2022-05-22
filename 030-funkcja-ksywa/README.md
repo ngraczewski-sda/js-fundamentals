@@ -1,4 +1,4 @@
-# 031 - Funkcja ksywa
+# 030 - Funkcja ksywa
 
 Napisz funkcję `getNickname`, która przyjmuje obiekt opisujący osobę (z potem `name`), a
 następnie zwraca jej ksywkę. Funkcja `getNickname` powinna posiadać switch i przypadków osób, które

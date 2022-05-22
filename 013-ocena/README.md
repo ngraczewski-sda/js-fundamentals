@@ -1,4 +1,4 @@
-# 013 Ocena
+# 013 - Ocena
 
 Napisz funkcję, która przyjmuje liczbę punktów studenta a następnie zwraca ocenę zgodnie
 z następującymi progami.

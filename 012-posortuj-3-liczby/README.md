@@ -1,4 +1,4 @@
-# 012 Posortuj 3 liczby
+# 012 - Posortuj 3 liczby
 
 Napisz funkcję, która przyjmuje 3 liczby (a, b, c) a następnie zwraca string, który zawiera unikalne
 liczby posortowane od najmniejszej do największej.

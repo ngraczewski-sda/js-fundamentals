@@ -1,4 +1,4 @@
-# Liczby oddalone o n
+# 011 - Liczby oddalone o n
 
 Napisz funkcję, która przyjmie argumenty `start`, `end`, `jump`, gdzie:
 
