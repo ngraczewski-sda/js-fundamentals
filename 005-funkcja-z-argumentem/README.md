@@ -9,4 +9,4 @@ Lub w wersji polskiej:
 
 `Cześć ${imię}. Masz ${wiek} lat.`
 
-Na potrzeby zadania pomijamy przypadki kiedy odmiana słowa wiek/age jest niepoprawna.
+Na potrzeby zadania pomijamy przypadki kiedy odmiana słowa rok/year jest niepoprawna.

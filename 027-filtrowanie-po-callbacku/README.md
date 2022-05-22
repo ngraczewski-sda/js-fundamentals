@@ -9,6 +9,13 @@ Funkcja przekazywana jako parametr `matches` musi:
 
 - przyjmować jeden argument
 - zwracać wartość typu boolean (`true`/`false`)
-- powinna sprawdzać dowolny warunek (czy liczba jest parzysta, czy jest podzielna przez liczbę, czy
-  jest liczba pierwsza albo dwucyfrową, czy string zawiera jakąś literę, czy obiekt zawiera pole o
-  konkretnej nazwie i konkretnej wartości)
+- powinna sprawdzać dowolny warunek, przykłady warunków poniżej
+
+Przykładowe warunki:
+
+- czy liczba jest parzysta
+- czy liczba jest podzielna przez wybraną liczbę
+- czy liczba jest liczbą pierwszą
+- czy liczba jest liczbą dwucyfrową
+- czy string zawiera wybraną literę
+- czy obiekt zawiera pole o wybranej nazwie i wybranej wartości

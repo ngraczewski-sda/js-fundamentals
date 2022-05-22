@@ -18,5 +18,3 @@ Dla wersji polskiej:
 
 `Cześć ${imię}. Masz ${wiek} lat.` kiedy wiek jest między 5 a 21 (włącznie) lub kiedy
 ostatni człon wieku to liczby od 5 do 9 (włącznie)
-
-Na potrzeby zadania pomijamy przypadek, gdzie wiek równy jest 1.

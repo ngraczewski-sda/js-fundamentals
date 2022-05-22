@@ -1,4 +1,4 @@
 # 016 - Funkcja tożsamość
 
-Przepisz funkcje z zadania `015` w taki sposób, aby zwracała specjalne porównanie bazując na
+Przepisz funkcję z zadania `015` w taki sposób, aby zwracała specjalne powitanie bazując na
 tożsamości obiektu a nie jego polu.

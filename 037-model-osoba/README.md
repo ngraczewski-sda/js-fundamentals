@@ -1,6 +1,6 @@
 # 037 - Model Osoba
 
-Stwórz klasę Osoba (korzystając za zapisu w postaci funkcji) o następujących właściwościach:
+Stwórz klasę `Person` (korzystając z zapisu w postaci funkcji) o następujących właściwościach:
 
 - pole publiczne `name`
 - pole publiczne `surname`
